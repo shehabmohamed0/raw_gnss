@@ -9,7 +9,6 @@ import android.util.Log;
 import androidx.annotation.RequiresApi;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.HashMap;
 
 import io.flutter.plugin.common.EventChannel;
