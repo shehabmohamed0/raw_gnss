@@ -1,6 +1,6 @@
 name: raw_gnss
 description: Fetch Raw GNSS Data - GNSS Measurement Events, Navigation Messages, and Status Events
-version: 1.1.1+1
+version: 1.1.1+2
 homepage: https://www.github.com/deven98/raw_gnss
 
 environment:
